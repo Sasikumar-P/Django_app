@@ -1,0 +1,1 @@
+This is a simple web application in Django(1.8) contains 3 HTML pages(3 forms) ,3 Models and corresponding views.Here I am using PostgreSQL as database. 
